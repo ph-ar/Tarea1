@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string name="op">OPERACIONES</string>
+    <string name="NO1">INGRESA NUMERO 1</string>
+    <string name="NO2">INGRESA NUMERO 2</string>
+    <string name="su">SUMA</string>
+    <string name="RES">RESTA</string>
+    <string name="MULT">MULTIPLICACIÓN</string>
+    <string name="DIV">DIVISIÓN</string>
+    <string name="RESULTA">RESULTADO</string>
+    <string name="R">EL RESULTADO ES</string>
+</resources>
